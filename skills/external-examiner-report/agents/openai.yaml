@@ -1,0 +1,4 @@
+interface:
+  display_name: "External Examiner Report"
+  short_description: "Review programmes and draft annual examiner reports"
+  default_prompt: "Use $external-examiner-report with this year's materials. Identify the courses and let me choose the detailed review before drafting; follow the embedded style without past writing samples."
